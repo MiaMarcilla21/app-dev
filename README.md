@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+---
+### My Favorite Movies and Series
+--- ## 1. [One Piece]![image](https://user-images.githubusercontent.com/102566563/207067062-28b6b20f-8780-41df-b6d1-8f24c34e22ac.png)
+![One Piece](https://www.imdb.com/video/vi1913960985/?playlistId=tt0388629&ref_=tt_pr_ov_vi)
